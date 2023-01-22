@@ -1,0 +1,4 @@
+print(type(2))
+print(type(2.0))
+print(type(True))
+print(type("name"))
